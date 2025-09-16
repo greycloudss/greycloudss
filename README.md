@@ -9,7 +9,7 @@ I name this collection the *Armourer Series*: tools inspired by armour, built to
 
 - **[Gauntlet](https://github.com/greycloudss/Gauntlet)** – *C++ reverse-engineering utility.* Supports both static and dynamic disassembly and DLL injection into external processes. Built for modularity and performance.
 
-- **[Breastplate](https://github.com/greycloudss/Breastplate)** – *Peer-to-peer, self-healing file-synchronisation layer (Java).* Nodes exchange SHA-256 hashes and reach consensus by majority to keep local folders in sync.
+- **[Breastplate](https://github.com/greycloudss/Breastplate)** – *Peer-to-peer, self-healing file-synchronisation layer (Java).* Nodes exchange SHA-256 hashes and reach consensus by majority to keep local folders in sync. Will most likely not be updated again.
 
 - **[Sabaton](https://github.com/greycloudss/Sabaton)** – *WIP offline password cracker and wordlist engine (C).* Generates exhaustive keyspaces and evaluates them against mainstream hash functions via a simple API; targeted for air-gapped environments.
 
