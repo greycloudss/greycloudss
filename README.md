@@ -33,9 +33,10 @@ I name this collection the *Armourer Series*: tools inspired by armour, built to
 
 ## GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=greycloudss&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greycloudss&layout=compact&theme=tokyonight" height="180" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=greycloudss&show_icons=true&theme=tokyonight&hide_border=true" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=greycloudss&layout=compact&theme=tokyonight&hide_border=true" height="180">
+</p>
+
 
 
