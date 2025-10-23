@@ -1,22 +1,21 @@
 # Hi, I’m Greycloudss
 
 Welcome! I build tools and utilities with a focus on performance, modularity, and practical utility — with a strong interest in security software.  
-I name this collection the *Armourer Series*: tools inspired by armour, built to protect and enable workflows.
+I named this collection the *Armourer Series*: tools inspired by armour, built to protect and enable workflows.
 
 ---
 
-##  Featured Project Series: *Armourer*
+# Featured Project Series: *Armourer*
 
-- **[Gauntlet](https://github.com/greycloudss/Gauntlet)** – *Reverse-engineering utility (C++).* Supports both static and dynamic disassembly and DLL injection into external processes. Built for modularity and performance.
+* **[Gauntlet](https://github.com/greycloudss/Gauntlet)** — *Reverse-engineering toolkit (C++).* Fast, modular static + dynamic disassembly engine with a plugin-friendly architecture and targeted DLL-injection primitives for controlled instrumentation of external processes. Built for performance and extensibility in adversarial analysis workflows.
 
-- **[Breastplate](https://github.com/greycloudss/Breastplate)** – *Peer-to-peer, self-healing file-synchronisation layer (Java).* Nodes exchange SHA-256 hashes and reach consensus by majority to keep local folders in sync. Will most likely not be updated again.
+* **[Breastplate](https://github.com/greycloudss/Breastplate)** — *P2P self-healing file sync (Java).* Peer nodes exchange SHA-256 manifests and use majority consensus to repair and keep folders synchronized without central coordination. Lightweight, opinionated design — feature-complete but effectively deprecated (no further updates planned).
 
-- **[Sabaton](https://github.com/greycloudss/Sabaton)** – *WIP offline password cracker and wordlist engine (C).* Generates exhaustive keyspaces and evaluates them against mainstream hash functions via a simple API; targeted for air-gapped environments.
+* **[Sabaton](https://github.com/greycloudss/Sabaton)** — *Offline password-cracking & wordlist engine (C).* Exhaustive keyspace generator with a simple hash-evaluation API exposing mainstream algorithms. Designed for air-gapped environments and high throughput on constrained targets. Work in progress.
 
-- **[Greave](https://github.com/greycloudss/Greave)** – *Fast, multi-mode scanner (Python).* Locates sensitive information across local filesystems and Confluence pages.
+* **[Greave](https://github.com/greycloudss/Greave)** — *Fast, multi-mode sensitive-data scanner (Python).* Scans local filesystems and Confluence instances to locate credentials, secrets, and patterns of interest using configurable detectors and fast I/O patterns. Meant as a red-team reconnaissance aid and audit tool.
 
-- **[Greathelm](https://github.com/greycloudss/Greathelm)** – *A modular Windows security service focused on process inspection, PowerShell telemetry, and automated response enforcement (C++)*.
-It’s built entirely in C++ and designed for minimal dependencies, direct API usage, and reliable operation in low-level environments such as service contexts.
+* **[Greathelm](https://github.com/greycloudss/Greathelm)** — *Modular Windows security service (C++).* Minimal-dependency service for deep process inspection, PowerShell telemetry collection, and automated response enforcement. Designed for reliable operation in low-level service contexts with direct API usage and deterministic behavior.
 
  Full list: [Armourer Series on GitHub Stars](https://github.com/stars/greycloudss/lists/armourer-series)
 
