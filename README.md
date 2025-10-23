@@ -7,7 +7,7 @@ I name this collection the *Armourer Series*: tools inspired by armour, built to
 
 ##  Featured Project Series: *Armourer*
 
-- **[Gauntlet](https://github.com/greycloudss/Gauntlet)** – *C++ reverse-engineering utility (C++).* Supports both static and dynamic disassembly and DLL injection into external processes. Built for modularity and performance.
+- **[Gauntlet](https://github.com/greycloudss/Gauntlet)** – *Reverse-engineering utility (C++).* Supports both static and dynamic disassembly and DLL injection into external processes. Built for modularity and performance.
 
 - **[Breastplate](https://github.com/greycloudss/Breastplate)** – *Peer-to-peer, self-healing file-synchronisation layer (Java).* Nodes exchange SHA-256 hashes and reach consensus by majority to keep local folders in sync. Will most likely not be updated again.
 
