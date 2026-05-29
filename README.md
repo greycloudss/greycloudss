@@ -17,6 +17,9 @@ I named this collection the *Armourer Series*: tools inspired by armour, built t
 
 * **[Greathelm](https://github.com/greycloudss/Greathelm)** — *Modular Windows security service (C++).* Minimal-dependency service for deep process inspection, PowerShell telemetry collection, and automated response enforcement. Designed for reliable operation in low-level service contexts with direct API usage and deterministic behavior.
 
+* **[Dagger](https://github.com/greycloudss/dagger)** - *a lightweight packet inspection tool (C++)* focused on live interface capture, raw frame parsing, and readable protocol output.  It is built around `libpcap` and direct byte-level parsing, with minimal abstraction and explicit control over packet decoding.  
+
+
  Full list: [Armourer Series on GitHub Stars](https://github.com/stars/greycloudss/lists/armourer-series)
 
 ---
